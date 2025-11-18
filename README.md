@@ -57,7 +57,7 @@ Special thanks to **@SumithRavi** for inspiring me to start with Tableau and hel
 ### 📬 Contact
 **Jyothi Sevakula**  
 M.Eng. Computer Science — Virginia Tech  
-🔗 LinkedIn: *[https://www.linkedin.com/in/jyothi-sevakula/]*  
-📎 Portfolio: *[https://www.jyothisevakula.com/]*  
+🔗 LinkedIn: *https://www.linkedin.com/in/jyothi-sevakula/*  
+📎 Portfolio: *https://www.jyothisevakula.com/*  
 
 ---
