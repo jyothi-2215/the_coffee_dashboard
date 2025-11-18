@@ -17,7 +17,7 @@ The dashboard analyzes **[insert topic – e.g., coffee sales, customer trends, 
 ### 📽 Dashboard Demo
 > Click below to view the demo video:
 
-[Watch the Dashboard Video]([https://github.com/jyothi-2215/the_coffee_dashboard/blob/main/The_Coffee_Story.mp4])  
+[Watch the Dashboard Video](https://github.com/jyothi-2215/the_coffee_dashboard/blob/main/The_Coffee_Story.mp4)  
 *(Replace with the actual filename once uploaded)*
 
 ---
